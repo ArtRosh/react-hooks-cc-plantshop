@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "dcnhs",
+      "image": "bdafc",
+      "price": "143542",
+      "id": 8
+    },
+    {
+      "name": "vmx",
+      "image": "bdafccvxn",
+      "price": "12344",
+      "id": 9
+    },
+    {
+      "name": "bn,c",
+      "image": "nvbxcm",
+      "price": "141",
+      "id": 10
+    },
+    {
+      "name": "gvn",
+      "image": "dzsn",
+      "price": "143",
+      "id": 11
     }
   ]
 }
